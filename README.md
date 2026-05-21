@@ -17,7 +17,7 @@ Add `flutterflow_helpers` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutterflow_helpers: ^1.0.0
+  flutterflow_helpers: ^1.0.2
 ```
 
 Then run:
