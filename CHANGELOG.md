@@ -1,3 +1,38 @@
+## 1.0.2
+
+### Improvements
+
+- Enhanced package publishing configuration
+- Improved pub.dev compatibility and validation support
+- Updated repository and package metadata
+- Refined documentation and package structure
+- Minor internal optimizations and cleanup
+
+### Notes
+
+This release includes maintenance updates and publishing improvements with no breaking API changes.
+
+## 1.0.1
+
+### Updates
+
+- Updated GitHub repository URL in `pubspec.yaml`
+- Improved package metadata for better pub.dev visibility
+- Minor documentation improvements
+
+### Existing Features
+
+- JSON Extensions
+- Dynamic Extensions
+- Path Extensions
+- List Extensions
+- API Extensions
+- FFLogger
+
+### Platform Support
+
+Android, iOS, Web, macOS, Windows, Linux
+
 ## 1.0.0
 
 **Initial release**

@@ -1,7 +1,10 @@
 name: flutterflow_helpers
 description: "A lightweight utility toolkit for safer API and JSON handling in FlutterFlow. Provides safe JSON parsing, nested path access, type conversion, and debug logging."
-version: 1.0.0
-homepage: https://github.com/vanshjariwala/flutterflow_helpers
+version: 1.0.2
+
+homepage: https://github.com/Coderkube-App
+repository: https://github.com/Coderkube-App/flutterflow_helper
+issue_tracker: https://github.com/Coderkube-App/flutterflow_helper/issues
 
 environment:
   sdk: ^3.0.0
